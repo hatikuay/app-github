@@ -1,0 +1,19 @@
+h2.Title {
+    padding: 10px 0;
+    border-bottom: 1px solid lightGrey;
+} 
+
+ul.ListWrapper {
+    list-style: none;
+    text-align: left;
+    padding: 0;
+}
+
+li.ListItem {
+    display: flex;
+    justify-content: space-between;
+}
+
+span.Label {
+    font-weight: strong;
+} 
